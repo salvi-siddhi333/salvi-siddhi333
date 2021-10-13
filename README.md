@@ -3,7 +3,7 @@
 ### _Glad to have you here!!!_
 
 <p align='center'>
- I 2021 graduated Computer Engineering Student and I'm passionate about Data Science, Machine Learning, Deep Learning and AI Technology and how it can be leveraged in field positively while working on projects. I'm currently focused on Object Detection, OpenCV stuffs!
+ I am 2021 graduated Computer Engineering Student and I'm passionate about Data Science, Machine Learning, Deep Learning and AI Technology and how it can be leveraged in field positively while working on projects. I'm currently focused on Object Detection, OpenCV stuffs!
 </p>
 <a href="https://www.linkedin.com/in/salvi-siddhi333/">
 <img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="33" height="33"> 
