@@ -4,7 +4,7 @@
 
 <p align='center'>
  I am 2021 graduated Computer Engineering Student and I'm passionate about Data Science, Machine Learning, Deep Learning and AI Technology and how it can be leveraged in field positively while working on projects. I'm currently focused on Object Detection, OpenCV stuffs!
-</p>
+</p>You can find me here too: 👀
 <a href="https://www.linkedin.com/in/salvi-siddhi333/">
 <img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="33" height="33"> 
 </a>
@@ -23,9 +23,15 @@
 
 <br>
 
-Languages:
+| `Languages` |  `Libraries` | `Data Analysis` | `Tools` | `Framework` | `IT Constructs` | `DB Lang` | `ML Algo` | `DL Algo`|
+| - | - | - | - | - | - | - | - | - |
+|Python|Numpy|EDA|Google Colab|Streamlit|OOPS|SQL|Supervised|ANN|
+|HTML|Pandas|Data-Preprocessing|Jupyter||DBMS||Unsupervised|CNN|
+|||Scikit-Learn|Feature-Engineering|||||||
+|||MatPlotLib|VS Code||||||
+|||Seaborn|Pycharm|||||||
 
 ![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvi-siddhi333&show_icons=true&theme=radical)
 
-Total Views on Profile:<br>
+😍 Total Views on Profile:<br>
 ![Visitor Count](https://profile-counter.glitch.me/{salvi-siddhi333}/count.svg)
