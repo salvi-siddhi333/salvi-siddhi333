@@ -27,4 +27,5 @@ Languages:
 
 ![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvi-siddhi333&show_icons=true&theme=radical)
 
+Total Views on Profile:<br>
 ![Visitor Count](https://profile-counter.glitch.me/{salvi-siddhi333}/count.svg)
