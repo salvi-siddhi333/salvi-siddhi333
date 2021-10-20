@@ -49,10 +49,10 @@ You can find me here too: 👀 <br><br>
  <br>
  <br>
  
-
-![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvi-siddhi333&show_icons=true&theme=radical)
-
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvi-siddhi333&layout=compact)](https://github.com/salvi-siddhi333/github-readme-stats)
+|  |  |
+| - | - |
+| ![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvi-siddhi333&show_icons=true&theme=vision-friendly-dark) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salvi-siddhi333&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D) |
  <br>
  <br>
  
