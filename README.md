@@ -25,7 +25,8 @@
 <a href="https://github.com/romaanchak-Rishabh">Rishabh Tater</a>,
 <a href="https://github.com/Simran980">Simran Rajput</a>,
 <a href="https://github.com/SoumyajitC24">Soumyajit Chakraborty</a>,
-<a href="https://github.com/biyatra13">Biyatra Ghosh</a>
+<a href="https://github.com/biyatra13">Biyatra Ghosh</a>,
+<a href="https://github.com/abdulbasit-creator">Abdul Basit</a>
 <br>
 ⚡ Fun Fact: Perfect day 🌞 would **start** with _ANALYSIS_ 📊 and **end** with _PERFECT DECISION_ 💡
 
