@@ -69,14 +69,18 @@ You can find me here too: 👀 <br><br>
  <br>
  <br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvi-siddhi333&layout=compact)](https://github.com/salvi-siddhi333/github-readme-stats)
-|  |  |
-| - | - |
 | ![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvi-siddhi333&show_icons=true&theme=vision-friendly-dark) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salvi-siddhi333&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D) |
-
- <br>
- <br>
+| - | - |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvi-siddhi333&layout=compact)](https://github.com/salvi-siddhi333/github-readme-stats) | Here's our **End_to_End** community where all make there contibution. Please help us with idea where we can make benifit out of it! ↩️  <br> <a href="https://github.com/Artificial-World" target="_blank"> ![Artificial_World_logo_40](https://user-images.githubusercontent.com/67642750/141534608-541f1fb0-e25a-4b19-a947-5b34f625c187.png) </a>  |
  
+
+
+ 
+
+ 
+ <br>
+ <br>
+
  
 😍 Total Views on Profile:<br>
 ![Visitor Count](https://profile-counter.glitch.me/{salvi-siddhi333}/count.svg)
