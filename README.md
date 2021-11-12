@@ -52,7 +52,9 @@ You can find me here too: 👀 <br><br>
  
 <br>
  
+ [![Siddhi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salvi-siddhi333&theme=xcode)](https://git.io/salvi-siddhi333)
  
+ <br>
  ## _Skills_ 🌟🌟🌟
 
 | `Languages` |  `Libraries` | `Data Analysis` | `Tools` | `Framework` | `IT Constructs` | `DB Lang` | `ML Algo` | `DL Algo`|
