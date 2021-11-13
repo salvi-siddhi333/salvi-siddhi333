@@ -29,6 +29,11 @@
 <a href="https://github.com/abdulbasit-creator">Abdul Basit</a>
 <br>
 ⚡ Fun Fact: Perfect day 🌞 would **start** with _ANALYSIS_ 📊 and **end** with _PERFECT DECISION_ 💡
+<br><br>
+🎵 I love to listen Music<br>
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31acltk2rf7o5zdfxuroxh675npa&count=1)](https://open.spotify.com/user/31acltk2rf7o5zdfxuroxh675npa)
+
+
 
 <br>
 
