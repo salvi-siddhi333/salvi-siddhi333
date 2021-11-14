@@ -63,7 +63,7 @@ You can find me here too: 👀 <br><br>
  
  ## _Skills_ 🌟🌟🌟
 
-| `Languages` |  `Libraries` | `Data Analysis` | `Tools` | `Framework` | `IT Constructs` | `Visualization` | `ML Algo` | `DL Algo`|
+| `Languages` |  `Libraries` | `Data Analysis` | `Tools` | `Framework` | `IT Constructs` | `BI Tools` | `ML Algo` | `DL Algo`|
 | - | - | - | - | - | - | - | - | - |
 |Python|Numpy|EDA|Google Colab|Streamlit|OOPS|Tableau|Supervised|ANN|
 |HTML|Pandas|Data-Preprocessing|Jupyter|Heroku|DBMS|Power BI|Unsupervised|CNN|
