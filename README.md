@@ -66,7 +66,7 @@ You can find me here too: 👀 <br><br>
 | `Languages` |  `Libraries` | `Data Analysis` | `Tools` | `Framework` | `IT Constructs` | `DB Lang` | `ML Algo` | `DL Algo`|
 | - | - | - | - | - | - | - | - | - |
 |Python|Numpy|EDA|Google Colab|Streamlit|OOPS|SQL|Supervised|ANN|
-|HTML|Pandas|Data-Preprocessing|Jupyter||DBMS||Unsupervised|CNN|
+|HTML|Pandas|Data-Preprocessing|Jupyter|Heroku|DBMS||Unsupervised|CNN|
 ||Scikit-Learn|Feature-Engineering|Pycharm|||||||
 ||MatPlotLib||VS Code||||||
 ||Seaborn|||||||||
