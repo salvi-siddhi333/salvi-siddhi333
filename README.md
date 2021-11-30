@@ -77,11 +77,10 @@ You can find me here too: 👀 <br><br>
  
 | ![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvi-siddhi333&show_icons=true&theme=vision-friendly-dark) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salvi-siddhi333&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D) |
 | - | - |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvi-siddhi333&layout=compact)](https://github.com/salvi-siddhi333/github-readme-stats) | Here's our _**End_to_End**_ community where all make there contibution. Please help us with idea where we can make benifit out of it! ↩️  <br> <a href="https://github.com/Artificial-World" target="_blank"> ![Artificial_World_logo_40](https://user-images.githubusercontent.com/67642750/141534608-541f1fb0-e25a-4b19-a947-5b34f625c187.png) </a>  |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvi-siddhi333&layout=compact)](https://github.com/salvi-siddhi333/github-readme-stats) | Here's our _**Donkey**_ community where all make there contibution. Please help us with idea where we can make benifit out of it! ↩️  <br> <a href="https://github.com/Artificial-World" target="_blank"> ![dc_cover_img_resize](https://user-images.githubusercontent.com/67642750/143986837-aff7e664-84ab-433e-afda-2f7cd5c596f8.png) </a>  |
  
 
 
- 
 
  
  <br>
