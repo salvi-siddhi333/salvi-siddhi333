@@ -33,6 +33,7 @@ You can find me here too: 👀 <br><br>
 
  <br>
  ### My Trophies 🏆<br>
+ 
  [![trophy](https://github-profile-trophy.vercel.app/?username=salvi-siddhi333)](https://github.com/ryo-ma/github-profile-trophy)
  <br>
  
