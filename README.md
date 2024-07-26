@@ -21,7 +21,12 @@ You can find me here too: 👀 <br><br>
 
 <a href="https://medium.com/@salvi.siddhi333">
 <img src = "https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" width="33" height="33"> 
-</a></p>
+</a>
+
+<a href="https://salvi-siddhi333.github.io/">
+<img src = "![image](https://github.com/user-attachments/assets/d8ba8d26-75ac-4be1-aa00-1981739bc9f3)" width="33" height="33"> 
+</a>
+</p>
  
  ### Skills 🌟🌟🌟
 
