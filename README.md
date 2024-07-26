@@ -22,9 +22,17 @@ You can find me here too: 👀 <br><br>
 <a href="https://medium.com/@salvi.siddhi333">
 <img src = "https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" width="33" height="33"> 
 </a>
-
+&nbsp;&nbsp;
 <a href="https://salvi-siddhi333.github.io/">
-<img src = "![image](https://github.com/user-attachments/assets/d8ba8d26-75ac-4be1-aa00-1981739bc9f3)" width="33" height="33"> 
+<img src = "https://pbs.twimg.com/profile_images/1438075207411851266/Wb8Vxcy5_400x400.jpg" width="33" height="33"> 
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/salvi_siddhi333">
+<img src = "https://imgs.search.brave.com/xF_BwBz-bpV5b0nhz_Od9qtC1iJ84jzayiOAH_pBJ54/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2VU/dEZ1VmVLVHdxVEQ0/MlBZTUxXdUEtMzIw/LTgwLmpwZw" width="33" height="33"> 
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me/salvi_siddhi333">
+<img src = "https://imgs.search.brave.com/K4alMXlJwC3Gl9O8As_0A51gkICgVhlFvy8PO1-Msyc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYThmYmE2NTE1/YjFlMGFkNzViMDMu/cG5n" width="33" height="33"> 
 </a>
 </p>
  
