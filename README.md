@@ -32,9 +32,9 @@ You can find me here too: 👀 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvi-siddhi333&layout=compact)](https://github.com/salvi-siddhi333/github-readme-stats)
 
  <br>
- 
+ ### My Trophies 🏆<br>
  [![trophy](https://github-profile-trophy.vercel.app/?username=salvi-siddhi333)](https://github.com/ryo-ma/github-profile-trophy)
  <br>
  
-😍 Total Views on Profile:<br>
+### Total Views on Profile 🤩<br>
 ![Visitor Count](https://profile-counter.glitch.me/{salvi-siddhi333}/count.svg)
