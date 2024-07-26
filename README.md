@@ -1,39 +1,9 @@
-![7 - Copy](https://user-images.githubusercontent.com/67642750/134459201-1458f35a-36c3-40a6-8234-56e02af08ceb.png)
-# Hi there 🤜🤛 
-### _Glad to have you here!!!_ 😃
+<h3 align='center'>Hi there 🤝, I'm Siddhi </h3>
+<p align='center'> Computer Engineer | Automation Tester | Master Student </p>
 
-<p align='center'>
- I am 2021 graduated Computer Engineering Student and I'm passionate about Data Science, Machine Learning, Deep Learning and AI Technology and how it can be leveraged in field positively while working on projects. I'm currently focused on Object Detection, OpenCV stuffs!</p>
-
-<br>
-
-🔬 I am currently working on project<br>
-🤯 I am currently having _Specialization_ in **Deep Learning**<br>
-🙌 Looking forward to work together with 
-<a href="https://github.com/ShishirShekhar">Shishir Shekhar<a>,
-<a href="https://github.com/suchitpatil2612">Suchit Patil<a>,
-<a href="https://github.com/BlackShadow18">Tejal R K<a>,
-<a href="https://github.com/riishiiiii">Rishi Pandey<a>,
-<a href="https://github.com/km-07">Khushal Mehotra<a>,
-<a href="https://github.com/PavanKhotS17">PavanKumar Khot<a>,
-<a href="https://github.com/darker-123">Pratik Bhehuria<a>,
-<a href="https://github.com/janvi191">Janvi Prajapati</a>,
-<a href="https://github.com/JanhviBhute">Janhvi Bhute</a>,
-<a href="https://github.com/Kharanshu94">Kharanshu Parekh</a>,
-<a href="https://github.com/lakshmivanacharla">Lakshmi Vanacharla</a>,
-<a href="https://github.com/Manavparmar06">Manav Parmar</a>,
-<a href="https://github.com/romaanchak-Rishabh">Rishabh Tater</a>,
-<a href="https://github.com/Simran980">Simran Rajput</a>,
-<a href="https://github.com/SoumyajitC24">Soumyajit Chakraborty</a>,
-<a href="https://github.com/biyatra13">Biyatra Ghosh</a>,
-<a href="https://github.com/abdulbasit-creator">Abdul Basit</a>
-<br>
-⚡ Fun Fact: Perfect day 🌞 would **start** with _ANALYSIS_ 📊 and **end** with _PERFECT DECISION_ 💡
-<br><be>
-
-
-
-
+🧑‍🎓 Currently I'm a Master Student at [University of Portsmouth](https://port.ac.uk/) and working on <b>JS & React</b><br>
+🙌 Let's discuss on HTML, CSS, Python, JS, React<br>
+⚡ Fun Fact: I have never ever tasted momos<br>
 
 <p>
 You can find me here too: 👀 <br><br>
@@ -41,11 +11,11 @@ You can find me here too: 👀 <br><br>
 <img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="33" height="33"> 
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/only_blog333/">
+<a href="https://www.instagram.com/siddhisalvi_official/">
 <img src = "http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="33" height="33"> 
 </a>
 
-<a href="mailto: siddhi.salvi@sakec.ac.in">
+<a href="mailto: siddhisalvi16@gmail.com">
 <img src = "https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="70" height="33"> 
 </a>
 
