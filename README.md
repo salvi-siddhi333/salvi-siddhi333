@@ -31,13 +31,8 @@ You can find me here too: 👀 <br><br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salvi-siddhi333&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvi-siddhi333&layout=compact)](https://github.com/salvi-siddhi333/github-readme-stats)
 
-
-
-
- 
  <br>
- <br>
-
- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=salvi-siddhi333)](https://github.com/ryo-ma/github-profile-trophy)
+ <br> 
 😍 Total Views on Profile:<br>
 ![Visitor Count](https://profile-counter.glitch.me/{salvi-siddhi333}/count.svg)
