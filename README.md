@@ -1,12 +1,14 @@
 <h3 align='center'>Hi there 🤝, I'm Siddhi </h3>
 <p align='center'> Computer Engineer | Automation Tester | Master Student </p>
 
-🧑‍🎓 Currently I'm a Master Student at [University of Portsmouth](https://port.ac.uk/) and working on <b>JS & React</b><br>
-🙌 Let's discuss on HTML, CSS, Python, JS, React<br>
+🎓 Graduated as Computer Engineer
+👩‍💻 2.3 years of experience in Automation Testing using Python & Selenium with AppDynamics<br>
+🧑‍🎓 Currently pursuing MSc in Information Systems at [University of Portsmouth](https://port.ac.uk/) and working on <b>JS & React</b><br>
+🙌 Let's discuss on HTML, CSS, Python, JS, React & Testing<br>
+⤴ Improving towards Web Development<br>
 ⚡ Fun Fact: I have never ever tasted momos<br>
 
-<p>
-You can find me here too: 👀 <br><br>
+### You can find me here 👀
 <a href="https://www.linkedin.com/in/salvi-siddhi333/">
 <img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="33" height="33"> 
 </a>
@@ -34,19 +36,25 @@ You can find me here too: 👀 <br><br>
 <a href="https://t.me/salvi_siddhi333">
 <img src = "https://imgs.search.brave.com/K4alMXlJwC3Gl9O8As_0A51gkICgVhlFvy8PO1-Msyc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYThmYmE2NTE1/YjFlMGFkNzViMDMu/cG5n" width="33" height="33"> 
 </a>
-</p>
- 
- ### Skills 🌟🌟🌟
 
+ ### Skills 🌟🌟🌟
+|Platform|Tools|
+|-|-|
+|`Programming`|Python|
+|`Monitoring`|AppDynamics|
+|`FrontEnd`|HTML, CSS, JS, React(learning)|
+|`BackEnd`|Selenium, Node|
+|`Database`|PostGRE SQL|
+|`IDE`|Visual Studio, Jupyter Notebook, Google Colab|
+|`OS`|Windows, Linux(learning)|
+|`MS-Office`|Excel, Word, PowerPoint|
 
 ### My Github Stats 📊
 ![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvi-siddhi333&show_icons=true&theme=vision-friendly-dark)<br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salvi-siddhi333&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvi-siddhi333&layout=compact)](https://github.com/salvi-siddhi333/github-readme-stats)
 
- <br>
- ### My Trophies 🏆<br>
- 
+ ### My Trophies 🏆<br> 
  [![trophy](https://github-profile-trophy.vercel.app/?username=salvi-siddhi333)](https://github.com/ryo-ma/github-profile-trophy)
  <br>
  
